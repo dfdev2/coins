@@ -1,0 +1,30 @@
+@import "./null.scss";
+.wrapper {
+}
+.container {
+  padding: 20px;
+}
+.coin {
+  // .coin__list
+
+  &__list {
+  }
+
+  // .coin__item
+
+  &__item {
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+  }
+
+  // .coin__name
+
+  &__name {
+  }
+
+  // .coin__khlal
+
+  &__khlal {
+  }
+}
